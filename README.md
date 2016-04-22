@@ -1,0 +1,2 @@
+# promoji
+Prolog with emojis.
